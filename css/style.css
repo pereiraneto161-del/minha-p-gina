@@ -1,0 +1,53 @@
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9; /* Cor de fundo suave */
+    color: #333; /* Cor do texto principal */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Ocupa toda a altura da tela */
+}
+
+/* Estilos do container principal */
+.container {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 600px;
+    width: 90%;
+}
+
+/* Estilos do título */
+h1 {
+    color: #4a90e2; /* Azul vibrante para o título */
+    margin-bottom: 5px;
+    font-size: 2.5em;
+}
+
+/* Estilos do parágrafo */
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Estilos do link de perfil */
+.profile-link {
+    display: inline-block;
+    background-color: #4a90e2;
+    color: #fff;
+    text-decoration: none; /* Remove o sublinhado do link */
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease; /* Efeito de transição suave */
+}
+
+.profile-link:hover {
+    background-color: #357ABD; /* Cor mais escura ao passar o mouse */
+}
