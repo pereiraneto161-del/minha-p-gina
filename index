@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Perfil Pessoal</title>
+    <link rel="stylesheet" href="anciuenv/style.css">
+    
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Seu Nome</h1>
+
+        <p>Desenvolvedor Front-end em início de carreira e entusiasta de tecnologia. Gosto de criar interfaces bonitas e funcionais. No meu tempo livre, adoro aprender novas linguagens de programação e jogar xadrez.</p>
+
+        <a href="#" class="profile-link" target="_blank">Ver Perfil no GitHub/LinkedIn</a>
+    </div>
+
+</body>
+</html>
